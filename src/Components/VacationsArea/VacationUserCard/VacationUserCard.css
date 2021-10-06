@@ -1,0 +1,9 @@
+.VacationUserCard {
+	width: 300px;
+    margin: 30px;
+    padding-left: 25px; 
+    text-align: center;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+}

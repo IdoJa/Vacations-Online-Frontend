@@ -1,0 +1,8 @@
+.Reports {
+	text-align: center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    overflow: auto;
+}
